@@ -1,3 +1,6 @@
 To jest wstęp do mojej książki
 
 Dziękuję wszystkim czytelnikom
+
+
+NOWY COMMIT
